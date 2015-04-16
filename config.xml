@@ -6,5 +6,5 @@
         version     = "1.0.0" >
     <!-- versionCode is optional and Android only -->
     <name>Postpickle</name>
-</widget>
-<preference name="phonegap-version" value="3.7.0" />
+	<preference name="phonegap-version" value="3.7.0"></preference>
+</widget>  
